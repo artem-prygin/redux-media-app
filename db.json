@@ -1,0 +1,185 @@
+{
+  "users": [
+    {
+      "name": "Paula Goldner",
+      "id": 4
+    },
+    {
+      "name": "Roderick Zulauf",
+      "id": 5
+    },
+    {
+      "name": "Ms. Shirley Funk",
+      "id": 7
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55379",
+      "id": 1
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=38460",
+      "id": 2
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=76569",
+      "id": 3
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=35352",
+      "id": 4
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54580",
+      "id": 5
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=23874",
+      "id": 6
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=63341",
+      "id": 7
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=14148",
+      "id": 8
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=47718",
+      "id": 9
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4136",
+      "id": 10
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=58000",
+      "id": 11
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87657",
+      "id": 12
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78516",
+      "id": 13
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=66202",
+      "id": 14
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84259",
+      "id": 15
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=93572",
+      "id": 16
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=67254",
+      "id": 17
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11613",
+      "id": 18
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=16173",
+      "id": 19
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=82590",
+      "id": 20
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=48537",
+      "id": 21
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=57451",
+      "id": 22
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22627",
+      "id": 23
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=88472",
+      "id": 24
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64330",
+      "id": 25
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=98367",
+      "id": 26
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2718",
+      "id": 27
+    }
+  ],
+  "albums": [
+    {
+      "userId": 4,
+      "title": "Intelligent Plastic Sausages",
+      "id": 1
+    },
+    {
+      "userId": 4,
+      "title": "Small Bronze Gloves",
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "title": "Unbranded Wooden Computer",
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "title": "Unbranded Granite Tuna",
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "title": "Handmade Concrete Car",
+      "id": 5
+    },
+    {
+      "userId": 7,
+      "title": "Modern Bronze Bacon",
+      "id": 6
+    }
+  ]
+}
